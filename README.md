@@ -14,11 +14,12 @@
 </p>
 
 **GitHub Stats**
-<p align="center">
-   <details>
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=petrisorcraciun&show_icons=true&hide_border=true" />
-   </details>
-</p>
+
+<img align="left" alt="petrisorcraciun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=petrisorcraciun&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petrisorcraciun&show_icons=true&hide_border=true)](https://github.com/petrisorcraciun)
+
+
 
 
 
