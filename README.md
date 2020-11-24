@@ -8,9 +8,7 @@
 **Social Network**
 <p align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn--000?style=social&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/crăciun-petrișor/)](https://www.linkedin.com/in/crăciun-petrișor/) 
-
-[![Gmail Badge](https://img.shields.io/badge/-fcarvalllho-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:petrisor.craciun34@gmail.com)](mailto:petrisor.craciun34@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn--000?style=social&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/crăciun-petrișor/)](https://www.linkedin.com/in/crăciun-petrișor/) [![Gmail Badge](https://img.shields.io/badge/-petrisor.craciun34@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:petrisor.craciun34@gmail.com)](mailto:petrisor.craciun34@gmail.com)
   
 
 </p>
