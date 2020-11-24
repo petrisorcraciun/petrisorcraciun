@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=petrisorcraciun" alt="petrisorcraciun" /> </p>
 
 
 - 🔭 I’m currently working as a Software Development Engineer
