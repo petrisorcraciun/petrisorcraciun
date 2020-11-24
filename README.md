@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working as a Software Development Engineer
+
+- :fire: I'm working with those technologies .NET CORE | C# | SQLSERVER | Laravel | React Native | Django |
+
+
 <!--
 **petrisorcraciun/petrisorcraciun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
