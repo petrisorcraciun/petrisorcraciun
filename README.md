@@ -2,8 +2,9 @@
 
 
 - 🔭 I’m currently working as a Software Development Engineer
-
-- :fire: I'm working with those technologies .NET CORE | C# | SQLSERVER | Laravel | React Native | Django |
+- 🌱 I’m currently learning everything 🤣
+- 💬 Ask me about anything, I am happy to help;
+- :fire: I'm working with those technologies .NET CORE | C# | SQLSERVER | Laravel | React Native | Django 
 
 **Social Network**
 <p align="center">
