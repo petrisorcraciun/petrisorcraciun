@@ -9,7 +9,7 @@
 **Social Network**
 <p align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-CrăciunPetrișor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/petrisorcraciun/)](https://www.linkedin.com/in/crăciun-petrișor/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:petrisor.craciun34@gmail.com)](mailto:petrisor.craciun34@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@petrisorcraciun-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/petrisorcraciun/)](https://instagram.com/petrisorcraciun) 
+[![Linkedin Badge](https://img.shields.io/badge/-CrăciunPetrișor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/petrisorcraciun/)](https://www.linkedin.com/in/petrisorcraciun/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:petrisor.craciun34@gmail.com)](mailto:petrisor.craciun34@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@petrisorcraciun-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/petrisorcraciun/)](https://instagram.com/petrisorcraciun) 
   
 
 </p>
