@@ -6,14 +6,6 @@
 - 💬 Ask me about anything, I am happy to help;
 - :fire: I'm working with those technologies .NET CORE | C# | SQLSERVER | Laravel | React Native | Django 
 
-**Social Network**
-<p align="center">
-
-[![Linkedin Badge](https://img.shields.io/badge/-CrăciunPetrișor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/petrisorcraciun/)](https://www.linkedin.com/in/petrisorcraciun/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:petrisor.craciun34@gmail.com)](mailto:petrisor.craciun34@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@petrisorcraciun-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/petrisorcraciun/)](https://instagram.com/petrisorcraciun) 
-  
-
-</p>
-
 **GitHub Stats**
 
 <img align="left" alt="petrisorcraciun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=petrisorcraciun&show_icons=true&hide_border=true" />
